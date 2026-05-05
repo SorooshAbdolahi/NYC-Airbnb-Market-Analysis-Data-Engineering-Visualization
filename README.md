@@ -44,7 +44,7 @@ To demonstrate production-ready data handling, the final cleaned dataset was exp
 
 ## 📈 Visualizations
 *(Note: Replace these placeholders with images from your output folder)*
-![Borough Price Distribution](outputs/price_dist.png)
+![Borough Price Distribution](outputs/price_distribution-of-listings.png)
 *Figure 1: Price distribution across NYC Boroughs highlighting the premium in Manhattan.*
 
 ---
