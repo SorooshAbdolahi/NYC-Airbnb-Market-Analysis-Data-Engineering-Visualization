@@ -43,13 +43,13 @@ To demonstrate production-ready data handling, the final cleaned dataset was exp
 ---
 
 ## 📈 Visualizations
-*(Note: Replace these placeholders with images from your output folder)*
-![Borough Price Distribution](outputs/price_distribution-of-listings.png)
+
+![Borough Price Distribution](outputs/price_distribution_of_listings.png)
 *Figure 1: Price distribution across NYC Boroughs highlighting the premium in Manhattan.*
 
----
+![Borough Comparison](outputs/borough_comparison.png)
+*Figure 2: Listing density by borough, demonstrating the market concentration in Brooklyn and Manhattan.*
 
-## 📂 How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/nyc-airbnb-analysis.git](https://github.com/YOUR_USERNAME/nyc-airbnb-analysis.git)
+![NYC Map Plot](outputs/nyc_map_plot.png)
+*Figure 3: Geographic distribution of listings color-coded by price, revealing premium clusters along the Manhattan waterfront and central districts.*
+
